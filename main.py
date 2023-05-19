@@ -15,7 +15,7 @@ import requests
 import random
 import os
 
-# 变量 ty_username（USER）,ty_password（PWD）
+# 变量 ty_username（）,ty_password（）
 ty_username = os.getenv("ty_username")
 ty_password = os.getenv("ty_password")
 # 推送加
