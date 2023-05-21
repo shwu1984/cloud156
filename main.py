@@ -24,9 +24,9 @@ username = "15605297035"
 password = "Sshwu@1984*"
  
 _ = """
-if(username == "15605297035" or password == "Sshwu@1984*"):
-    username = input("账号：15605297035")
-    password = input("密码：Sshwu@1984*")
+if(username == "" or password == ""):
+    username = input("账号：")
+    password = input("密码：")
 # """
  
 
