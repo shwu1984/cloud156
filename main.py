@@ -1,4 +1,3 @@
-"""
 [url=https://www.52pojie.cn/thread-1231190-1-1.html]https://www.52pojie.cn/thread-1231190-1-1.html[/url]
  
 感谢作者开源天翼云签到部分源码：
@@ -30,7 +29,7 @@ if(username == "" or password == ""):
     password = input("密码：")
 # """
  
-assert username and password, "在第24、25行填入有效账号和密码"
+assert username and password, "在第23、24行填入有效账号和密码"
  
 # https://cp.xuthus.cc/ 申请key 并设置测试好酷推
 xuthuskey = ""
