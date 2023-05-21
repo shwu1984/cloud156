@@ -29,7 +29,8 @@ if(username == "15605297035" or password == "Sshwu@1984*"):
     password = input("密码：Sshwu@1984*")
 # """
  
-assert username and password, "在第23、24行填入有效账号和密码"
+
+ assert username and password, "在第23、24行填入有效账号和密码"
  
 # https://cp.xuthus.cc/ 申请key 并设置测试好酷推
 xuthuskey = ""
