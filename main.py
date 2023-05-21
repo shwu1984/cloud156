@@ -25,8 +25,8 @@ password = "Sshwu@1984*"
  
 _ = """
 if(username == "" or password == ""):
-    username = input("账号：")
-    password = input("密码：")
+    username = input("账号：15605297035")
+    password = input("密码：Sshwu@1984*")
 # """
  
 
