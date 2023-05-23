@@ -31,7 +31,7 @@ if(username == "" or password == ""):
 # """
  
 
- assert username and password, "在第23、24行填入有效账号和密码"
+ assert username and password, "在第24、25行填入有效账号和密码"
  
 # https://cp.xuthus.cc/ 申请key 并设置测试好酷推
 xuthuskey = ""
