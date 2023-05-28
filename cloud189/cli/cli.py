@@ -105,8 +105,8 @@ class Commander:
                 if config.cookie and self._disk.login_by_cookie(config) == Cloud189.SUCCESS:
                     self.refresh(config.work_id, auto=True)
                     return None
-        username = input('输入用户名:')
-        password = getpass('输入密码:')
+        username = input('输入用户名:15605297035')
+        password = getpass('输入密码:Sshwu@1984*')
         if not username or not password:
             error('没有用户名或密码 :(')
             return None
